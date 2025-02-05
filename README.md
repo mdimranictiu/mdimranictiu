@@ -1,4 +1,4 @@
-<div align="center" style="width: 100vw; height: 100vh;">
+<div align="center">
   <img style="width: 100%; height: 100%; object-fit: cover;" src="https://i.ibb.co/YBY56mmT/457512577-1234405871027739-3234554074723260860-n.jpg" alt="Image" />
 </div>
 
