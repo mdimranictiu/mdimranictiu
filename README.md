@@ -4,13 +4,35 @@
 
 ###
 
-<h1 align="center">Hello There..👋🏽 I am Md. Imran Sheikh</h1>
+<h1 align="center">Hi,  I'm Md. Imran Sheikh<br>Frontend Web Developer</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdimranictiu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-</div>
+<h2 align="center">About Me</h2>
+
+###
+
+<p align="left">I’m a web developer specializing in JavaScript technologies—including React.js, Node.js, MongoDB, and Express.js. Recently, I’ve completed several projects using these technologies, which have honed my skills further.<br><br>I’m passionate about developing web applications that offer smooth user experiences and exceptional performance while maintaining a perfect balance between design and functionality. Continuous learning is central to my growth as a developer, and I am always seeking new challenges to improve.</p>
+
+###
+
+<h2 align="center">Current Activities</h2>
+
+###
+
+<h4 align="left">🔹  Exploring Next.js for full-stack web development.</h4>
+
+###
+
+<h4 align="left">🔹 Currently building QuickCart (an e-commerce platform with Next.js).</h4>
+
+###
+
+<h4 align="left">🔹 Improving web performance by optimizing JavaScript and CSS</h4>
+
+###
+
+<h4 align="left">🔹 Contributing to open-source projects to enhance community collaboration</h4>
 
 ###
 
@@ -40,27 +62,12 @@
 
 ###
 
-<h2 align="center">Recent Overview</h2>
-
-###
-
-<h4 align="left">🔹 Passionate about building modern, scalable web applications.</h4>
-
-###
-
-<h4 align="left">🔹 Experienced in Frontend Development focusing on MERN Stack & Next.js.</h4>
-
-###
-
-<h4 align="left">🔹 Love working with React, Tailwind CSS, Node.js, MongoDB, and more!</h4>
-
-###
-
-<h4 align="left">🔹 Currently building QuickCart (an e-commerce platform with Next.js).</h4>
-
-###
-
-<h4 align="left">🔹 Exploring new technologies to enhance my skills.</h4>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdimranictiu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdimranictiu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mdimranictiu&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdimranictiu&radius=16&theme=github-dark&area=true&order=5&hide_border=false" height="200" alt="activity-graph graph"  />
+</div>
 
 ###
 
