@@ -4,8 +4,8 @@
 
 ###
 
-<h1 align="center">Hi, 👋  I'm Md. Imran Sheikh 
-<br>💻 Frontend Web Developer
+<h1 align="center">Hi, I'm Md. Imran Sheikh 
+<br> Frontend Web Developer
  </h1>
 
 ###
