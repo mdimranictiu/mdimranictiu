@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
- ![Profile Picture](2.png)
+ ![Profile Picture](/2.png)
 </div>
 
 ###
