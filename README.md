@@ -4,7 +4,9 @@
 
 ###
 
-<h1 align="center">Hi,  I'm Md. Imran Sheikh<br>Frontend Web Developer</h1>
+<h1 align="center">Hi, 👋 **Hi, I'm Md. Imran Sheikh**  
+💻 **Frontend Web Developer**
+ I'm Md. Imran Sheikh<br>Frontend Web Developer</h1>
 
 ###
 
