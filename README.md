@@ -4,9 +4,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm Md. Imran Sheikh 
-<br> Frontend Web Developer
- </h1>
+<h1 align="center">Hi,  I'm Md. Imran Sheikh<br>Frontend Web Developer</h1>
 
 ###
 
@@ -14,7 +12,7 @@
 
 ###
 
-<p align="left">I’m a web developer specializing in JavaScript technologies—including React.js, Node.js, MongoDB, and Express.js. Recently, I’ve completed several projects using these technologies, which have honed my skills further.<br><br>I’m passionate about developing web applications that offer smooth user experiences and exceptional performance while maintaining a perfect balance between design and functionality. Continuous learning is central to my growth as a developer, and I am always seeking new challenges to improve.</p>
+<p align="left">I’m a web developer specializing in JavaScript technologies—including React.js, Node.js, MongoDB, and Express.js. Recently, I’ve completed several projects using these technologies, which have honed my skills further.<br><br>I’m passionate about developing web applications that offer smooth user experiences and exceptional performance, while maintaining a perfect balance between design and functionality. Continuous learning is central to my growth as a developer, and I am always seeking new challenges to improve.</p>
 
 ###
 
@@ -61,6 +59,10 @@
   <img width="18" />
   <img src="https://cdn.simpleicons.org/express/000000" height="50" alt="express logo"  />
 </div>
+
+###
+
+<h2 align="center">Github Statistics</h2>
 
 ###
 
