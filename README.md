@@ -1,6 +1,5 @@
 <div align="center">
-  <img  src="https://i.ibb.co/YBY56mmT/457512577-1234405871027739-3234554074723260860-n.jpg"  />
-</div>
+ ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/the-nazzmul/the-nazzmul/refs/heads/main/nazmul-hussain.png)
 
 ###
 
