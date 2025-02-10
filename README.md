@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi,  I'm Md. Imran Sheikh<br>Frontend Web Developer</h1>
+<h1 align="center">Hi,  I'm Md. Imran Sheikh<br>MERN Stack Developer</h1>
 
 ###
 
