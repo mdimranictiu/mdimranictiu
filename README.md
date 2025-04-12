@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">🔹 Currently building QuickCart (an e-commerce platform with Next.js).</h4>
+<h4 align="left">🔹 Recently built Chatify (A real-time chat application).</h4>
 
 ###
 
